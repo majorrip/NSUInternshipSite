@@ -1,0 +1,92 @@
+.bg-main {
+	background: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/bg.png) no-repeat center center fixed !important;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover !important;
+}
+.index-head {
+	padding: 10%;
+	color: #fff;
+	line-height: 150%;
+}
+
+.index-head > h1 {
+	font-size: 60px;
+}
+.logo-bg {
+	background-color: #212529 !important;
+}
+
+.index-head > p { color: #FFFFF; font-family: 'Raleway',sans-serif;
+									font-size: 18px; font-weight: 500; line-height: 32px;
+									margin: 0 0 24px; }
+
+.index-head > p > a {
+	margin-top: 20px;
+}
+
+.photo > img{
+	text-align: center;
+}
+
+.latest-job {
+	line-height: 150%;
+}
+
+.latest-job > h1 { color: #00000; font-family: 'Raleway',sans-serif;
+									font-size: 45px; font-weight: 800;
+									line-height: 72px; margin: 0 0 24px;
+									text-align: center; text-transform: uppercase; }
+
+.candidate-img > img {
+	width: 300px;
+	height: 300px;
+}
+
+.company-img > img {
+	width: 300px;
+	height: 300px;
+}
+
+.about-text > p { color: #222; font-family: 'Verdana', sans-serif, sans-serif;
+		font-size: 14px; font-weight: 400; line-height: 24px;
+		margin: 0 0 14px; font-size: 17px; line-height: 150%;}
+
+.margin-bottom-20 {
+	margin-bottom: 20px;
+}
+
+.margin-top-50 {
+	margin-top: 50px;
+}
+
+.margin-top-20 {
+	margin-top: 20px;
+}
+
+.padding-5 {
+	padding: 5%;
+}
+
+.padding-2 {
+	padding: 2%;
+}
+.bg-white {
+	background-color: #fff;
+}
+.margin-right-10 {
+	margin-right: 10px;
+}
+
+.bg-c-yellow {
+	background-color: #FFC;
+}
+
+.color-red {
+	color: red;
+}
+
+.hide-me {
+	display: none;
+}
